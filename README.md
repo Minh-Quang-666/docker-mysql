@@ -3,7 +3,7 @@ A docker-compose sample to start MySQL database.
 
 How to use?
 Clone the project:
-  $ git clone https://github.com/gaoshanyu/mysql-docker-compose.git
+  $ git clone https://github.com/Minh-Quang-666/docker-mysql.git
 Start MySQL via docker-compose in terminal:
   $ cd ./mysql-docker-compose
   // Please add path "/usr/local/var/mysql" as the sharing folder for your Docker before
